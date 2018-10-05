@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ElemeFE/element-react.git"
+    "url": "git+https://github.com/ToanDieu89/testurl"
   },
   "keywords": [
     "Element",
@@ -27,10 +27,6 @@
   ],
   "author": "ELEME Inc",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/ElemeFE/element-react/issues"
-  },
-  "homepage": "https://github.com/ElemeFE/element-react",
   "devDependencies": {
     "@types/react": "^15.6.7",
     "babel-cli": "^6.26.0",
